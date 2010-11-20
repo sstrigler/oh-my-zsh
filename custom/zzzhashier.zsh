@@ -4,6 +4,7 @@
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
 setopt rm_star_wait
+
 setopt extendedglob
 unsetopt SHARE_HISTORY
 
@@ -23,3 +24,4 @@ export LESS_TERMCAP_us=$'\E[01;32m'
 
 export EDITOR=vim
 export LESS="-i -R"
+
