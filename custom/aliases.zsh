@@ -18,6 +18,7 @@ alias -g S='| sort'
 alias -g U='| uniq'
 alias -g H='| head'
 alias -g T='| tail'
+
 alias -g N='2>/dev/null'
 
 # Make going up directories simple.
@@ -45,3 +46,4 @@ alias larsh="ll -larSh"
 alias dudir="du -scm * | sort -n"
 
 alias mp="mplayer"
+
