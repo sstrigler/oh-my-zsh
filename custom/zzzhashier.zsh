@@ -7,3 +7,4 @@ setopt rm_star_wait
 bindkey '\e.' insert-last-word
 REPORTTIME=3
 TIMEFMT="Real: %E User: %U System: %S Percent: %P Cmd: %J"
+unsetopt SHARE_HISTORY
