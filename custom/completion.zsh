@@ -11,7 +11,7 @@ zstyle ':completion:*:warnings' format '%{[1;31m%}! No matches for: %d%{[0m%}'
 zstyle ':completion:*' group-name ''
 
 # colors
-zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+#zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
 
 # case-insensitive (all) completion
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}' 'r:|[._-]=* r:|=*'
