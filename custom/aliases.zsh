@@ -18,6 +18,7 @@ alias -g S='| sort'
 alias -g U='| uniq'
 alias -g H='| head'
 alias -g T='| tail'
+alias -g N='2>/dev/null'
 
 alias -g N='2>/dev/null'
 
@@ -37,10 +38,12 @@ alias t="todo.pl"
 alias sortseries="tvnamer -c ~/.tvnamer.json ~/space/unsorted"
 
 alias wcd=wicd-curses
-<<<<<<< HEAD
 
 alias ll="ls -lF"
 alias l="ll"
+
+alias ll="ls -lGF"
+
 alias larth="ll -larth"
 alias larsh="ll -larSh"
 
@@ -48,5 +51,3 @@ alias dudir="du -scm * | sort -n"
 
 alias mp="mplayer"
 
-=======
->>>>>>> aliases added
