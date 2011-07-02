@@ -8,6 +8,7 @@ setopt extendedglob
 unsetopt SHARE_HISTORY
 
 bindkey '\e.' insert-last-word
+bindkey "^N" accept-and-menu-complete
 
 REPORTTIME=3
 TIMEFMT="Real: %E User: %U System: %S Percent: %P Cmd: %J"
@@ -21,4 +22,4 @@ export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[01;32m'
 
 export EDITOR=vim
-
+export LESS="-i -R"
