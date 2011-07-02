@@ -9,6 +9,7 @@ setopt extendedglob
 unsetopt SHARE_HISTORY
 
 bindkey '\e.' insert-last-word
+bindkey "^N" accept-and-menu-complete
 
 bindkey "^N" accept-and-menu-complete
 
