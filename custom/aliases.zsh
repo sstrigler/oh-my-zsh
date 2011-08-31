@@ -43,7 +43,7 @@ alias ll="ls -lF"
 alias l="ll"
 
 alias ll="ls -lGF"
-
+alias l="ll"
 alias larth="ll -larth"
 alias larsh="ll -larSh"
 
