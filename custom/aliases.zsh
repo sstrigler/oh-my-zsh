@@ -37,7 +37,7 @@ alias sortseries="tvnamer -c ~/.tvnamer.json ~/space/unsorted"
 
 alias wcd=wicd-curses
 
-alias ll="ls -lGF"
+alias ll="ls -lF"
 alias l="ll"
 alias larth="ll -larth"
 alias larsh="ll -larSh"
