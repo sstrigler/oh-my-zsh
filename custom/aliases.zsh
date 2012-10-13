@@ -51,3 +51,5 @@ alias dudir="du -scm * | sort -n"
 
 alias mp="mplayer"
 
+alias make="colormake"
+
