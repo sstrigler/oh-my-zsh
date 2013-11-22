@@ -27,8 +27,6 @@ alias -g ...='../..'
 alias -g ....='../../..'
 alias -g .....='../../../..'
 
-alias vimsyn="vim --servername lasync"
-
 # dropbox
 alias db="python ~/.dropbox/dropbox.py"
 
@@ -70,3 +68,4 @@ alias zizek='ssh zizek.strigler.de'
 alias rpi='ssh rpi'
 alias rpiext='ssh rpiext'
 alias e='emacsclient'
+alias mk='make -j12 myday'
