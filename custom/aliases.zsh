@@ -27,8 +27,6 @@ alias -g ...='../..'
 alias -g ....='../../..'
 alias -g .....='../../../..'
 
-alias vimsyn="vim --servername lasync"
-
 # dropbox
 alias db="python ~/.dropbox/dropbox.py"
 
@@ -54,7 +52,6 @@ alias mp="mplayer"
 
 alias make="colormake"
 
-alias a='aquamacs'
 alias more='less'
 alias blogsport='ssh blogsport.de'
 alias borszi7='ssh borszi7.strigler.de'
