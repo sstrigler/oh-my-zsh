@@ -1,4 +1,3 @@
-
 ##--- begin *KRED-PATHS* ---
 export ORIG_PATH=`echo $PATH | sed "s*/home/steve/klarna/erlangR14:**"`
 # Make sure to use kernel_poll
@@ -36,4 +35,8 @@ function stderl() {
 export ERL_INETRC=/home/steve/.inetrc
 ##---- end *KRED-INETRC* ---
 
-r15
+#r15
+#
+
+[[ -s ~/.nvm/nvm.sh ]] && . ~/.nvm/nvm.sh
+export PATH=./node_modules/.bin:$PATH
