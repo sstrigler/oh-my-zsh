@@ -3,7 +3,7 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
-setopt rm_star_wait
+#setopt rm_star_wait
 
 setopt extendedglob
 unsetopt SHARE_HISTORY
