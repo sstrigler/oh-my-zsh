@@ -52,20 +52,13 @@ alias mp="mplayer"
 
 alias make="colormake"
 
-alias a='aquamacs'
 alias more='less'
 alias blogsport='ssh blogsport.de'
 alias borszi7='ssh borszi7.strigler.de'
-alias brokerz='ssh horst.whispern.com'
-alias bsde='ssh bsde.strigler.de'
+alias bsde='ssh blogsport.de'
 alias bseu='ssh blogsport.eu'
-alias bstest='ssh bstest.de'
 alias fiddl='ssh fiddl.strigler.de'
 alias fundi7='ssh fundi7.strigler.de'
 alias harbsch='ssh harbsch.strigler.de'
-alias planet='ssh planet.blogsport.de'
 alias zizek='ssh zizek.strigler.de'
-alias rpi='ssh rpi'
-alias rpiext='ssh rpiext'
 alias e='emacsclient'
-alias mk='make -j12 myday'
