@@ -40,3 +40,5 @@ export ERL_INETRC=/home/steve/.inetrc
 
 [[ -s ~/.nvm/nvm.sh ]] && . ~/.nvm/nvm.sh
 export PATH=./node_modules/.bin:$PATH
+
+export MAKEFLAGS="-s -j12"
