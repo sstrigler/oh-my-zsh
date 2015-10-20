@@ -29,3 +29,4 @@ export LESS="-i -R"
 
 export TERM=xterm-256color
 export PATH=/usr/local/sbin:/usr/local/bin:$PATH
+export MANPATH=$MANPATH:/usr/local/opt/erlang/lib/erlang/man

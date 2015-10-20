@@ -62,4 +62,5 @@ alias fundi7='ssh fundi7.strigler.de'
 alias harbsch='ssh harbsch.strigler.de'
 
 alias e='emacsclient -t'
-alias ekill='emacsclient -e "(kill-emacs)"'
+alias ekill="emacsclient -e '(kill-emacs)'"
+alias vi=e
