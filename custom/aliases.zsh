@@ -60,5 +60,6 @@ alias bseu='ssh blogsport.eu'
 alias fiddl='ssh fiddl.strigler.de'
 alias fundi7='ssh fundi7.strigler.de'
 alias harbsch='ssh harbsch.strigler.de'
-alias zizek='ssh zizek.strigler.de'
+
 alias e='emacsclient -t'
+alias ekill='emacsclient -e "(kill-emacs)"'
