@@ -30,3 +30,7 @@ export LESS="-i -R"
 export TERM=xterm-256color
 export PATH=/usr/local/sbin:/usr/local/bin:$PATH
 export MANPATH=$MANPATH:/usr/local/opt/erlang/lib/erlang/man
+
+export HOMEBREW_GITHUB_API_TOKEN="e7a8aa3cd3bcbd7cf87812828c25bc78a7fede86"
+
+export PATH=$PATH:/usr/local/m-cli
